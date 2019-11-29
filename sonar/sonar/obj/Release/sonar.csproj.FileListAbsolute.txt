@@ -1,0 +1,12 @@
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\bin\Release\sonar.exe.config
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Release\sonar.csproj.ResolveComReference.cache
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\bin\Release\sonar.exe
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\bin\Release\sonar.pdb
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\bin\Release\EPPlus.dll
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\bin\Release\EPPlus.xml
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Release\sonar.mainForm.resources
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Release\sonar.Properties.Resources.resources
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Release\sonar.csproj.GenerateResource.Cache
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Release\sonar.exe
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Release\sonar.pdb
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Release\sonar.csprojResolveAssemblyReference.cache

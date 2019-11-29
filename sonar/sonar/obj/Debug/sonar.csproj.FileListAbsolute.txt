@@ -1,0 +1,24 @@
+c:\users\sergo\documents\visual studio 2015\Projects\sonar\sonar\bin\Debug\sonar.exe.config
+c:\users\sergo\documents\visual studio 2015\Projects\sonar\sonar\bin\Debug\sonar.exe
+c:\users\sergo\documents\visual studio 2015\Projects\sonar\sonar\bin\Debug\sonar.pdb
+c:\users\sergo\documents\visual studio 2015\Projects\sonar\sonar\obj\Debug\sonar.csprojResolveAssemblyReference.cache
+c:\users\sergo\documents\visual studio 2015\Projects\sonar\sonar\obj\Debug\sonar.Properties.Resources.resources
+c:\users\sergo\documents\visual studio 2015\Projects\sonar\sonar\obj\Debug\sonar.csproj.GenerateResource.Cache
+c:\users\sergo\documents\visual studio 2015\Projects\sonar\sonar\obj\Debug\sonar.exe
+c:\users\sergo\documents\visual studio 2015\Projects\sonar\sonar\obj\Debug\sonar.pdb
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Debug\sonar.mainForm.resources
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\obj\Debug\sonar.csproj.ResolveComReference.cache
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\bin\Debug\EPPlus.xml
+C:\Users\sergo\Documents\Visual Studio 2015\Projects\sonar\sonar\bin\Debug\EPPlus.dll
+C:\Users\Admin\Desktop\sonar\sonar\bin\Debug\sonar.exe.config
+C:\Users\Admin\Desktop\sonar\sonar\bin\Debug\sonar.exe
+C:\Users\Admin\Desktop\sonar\sonar\bin\Debug\sonar.pdb
+C:\Users\Admin\Desktop\sonar\sonar\bin\Debug\EPPlus.xml
+C:\Users\Admin\Desktop\sonar\sonar\obj\Debug\sonar.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\sonar\sonar\obj\Debug\sonar.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\sonar\sonar\obj\Debug\sonar.mainForm.resources
+C:\Users\Admin\Desktop\sonar\sonar\obj\Debug\sonar.Properties.Resources.resources
+C:\Users\Admin\Desktop\sonar\sonar\obj\Debug\sonar.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\sonar\sonar\obj\Debug\sonar.csproj.CopyComplete
+C:\Users\Admin\Desktop\sonar\sonar\obj\Debug\sonar.exe
+C:\Users\Admin\Desktop\sonar\sonar\obj\Debug\sonar.pdb
